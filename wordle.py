@@ -1555,5 +1555,5 @@ def play_wordle(guess,intentos=5):
         print(Fore.GREEN+("YOU WIN!, the wor was %s." % (palabra)));
     else:
         print(Fore.RED+("YOU LOOSE, the word was %s." % (palabra)));
-play_wordle("after",10)
+
     
